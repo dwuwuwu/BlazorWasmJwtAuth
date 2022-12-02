@@ -1849,11 +1849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\BlazorWasm\\BlazorWasm.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\BlazorWasm\\BlazorWasm.csproj",
       "projectName": "BlazorWasm",
-      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\BlazorWasm\\BlazorWasm.csproj",
+      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\BlazorWasm\\BlazorWasm.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\BlazorWasm\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\BlazorWasm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1868,8 +1868,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\Shared\\Shared.csproj"
+            "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\Shared\\Shared.csproj"
             }
           }
         }

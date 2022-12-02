@@ -318,11 +318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config"

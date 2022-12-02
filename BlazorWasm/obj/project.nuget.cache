@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G0sVUZd1UMnpHA4nzj+e7VVndBQ6n9BAsGaGem2fj8KtQ/bAwXaw+wTUxBwjih5YtAi4U9RL6nfuZwB0k+J9qg==",
+  "dgSpecHash": "r68U5rDG8Bs9gt7Yeey7uFleAsLJMfYfNmWv/pfzKlZP0cPqniGLdS/H4yy2kj9bclfMAKCgcOsQhWXgSJt2sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\Documents\\GitHub\\JwtAuth-master\\BlazorWasm\\BlazorWasm.csproj",
+  "projectFilePath": "C:\\Users\\drago\\Documents\\GitHub\\SEP3\\Tier1-Blazor\\Tier1\\BlazorWasm\\BlazorWasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
